@@ -22,6 +22,8 @@ import com.aec.service.ICategorieService;
 @CrossOrigin("http://localhost:4200")
 public class CategorieController {
 	
+	// modification test git
+	
 	@Autowired
 	ICategorieService categorieService;
 	
